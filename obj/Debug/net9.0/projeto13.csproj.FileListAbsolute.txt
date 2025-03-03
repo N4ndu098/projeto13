@@ -1,0 +1,14 @@
+D:\denis\denis\Documents\Estudos\Csharp\projeto13\bin\Debug\net9.0\projeto13.exe
+D:\denis\denis\Documents\Estudos\Csharp\projeto13\bin\Debug\net9.0\projeto13.deps.json
+D:\denis\denis\Documents\Estudos\Csharp\projeto13\bin\Debug\net9.0\projeto13.runtimeconfig.json
+D:\denis\denis\Documents\Estudos\Csharp\projeto13\bin\Debug\net9.0\projeto13.dll
+D:\denis\denis\Documents\Estudos\Csharp\projeto13\bin\Debug\net9.0\projeto13.pdb
+D:\denis\denis\Documents\Estudos\Csharp\projeto13\obj\Debug\net9.0\projeto13.GeneratedMSBuildEditorConfig.editorconfig
+D:\denis\denis\Documents\Estudos\Csharp\projeto13\obj\Debug\net9.0\projeto13.AssemblyInfoInputs.cache
+D:\denis\denis\Documents\Estudos\Csharp\projeto13\obj\Debug\net9.0\projeto13.AssemblyInfo.cs
+D:\denis\denis\Documents\Estudos\Csharp\projeto13\obj\Debug\net9.0\projeto13.csproj.CoreCompileInputs.cache
+D:\denis\denis\Documents\Estudos\Csharp\projeto13\obj\Debug\net9.0\projeto13.dll
+D:\denis\denis\Documents\Estudos\Csharp\projeto13\obj\Debug\net9.0\refint\projeto13.dll
+D:\denis\denis\Documents\Estudos\Csharp\projeto13\obj\Debug\net9.0\projeto13.pdb
+D:\denis\denis\Documents\Estudos\Csharp\projeto13\obj\Debug\net9.0\projeto13.genruntimeconfig.cache
+D:\denis\denis\Documents\Estudos\Csharp\projeto13\obj\Debug\net9.0\ref\projeto13.dll
